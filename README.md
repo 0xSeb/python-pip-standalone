@@ -1,5 +1,5 @@
 # Python-pip-standalone
-Bash script which can bundle all your pip dependencies to make it easy to export your python script on other system without having to install anything. 
+Bash script which can **bundle all your pip dependencies** to make it easy to **export your python script** on other system without having to install anything. 
 
 # How to use 
 
